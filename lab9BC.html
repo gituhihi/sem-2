@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .div {
+            animation-duration: 5s;
+            height: 100%;
+            width: 100%;
+        animation-timing-function: cubic-bezier(.05, .8, .1, .95);
+            animation-name: slide;
+            /* animation-iteration-count: infinite; */
+        }
+        @keyframes slide{
+            20%{background-color: aqua; margin-left: 0px;margin-top: 0px;}
+            40%{background-color: aqua; margin-left: 100px;margin-top: 0px;}
+            55%{background-color: aqua; margin-top: 100px;margin-left: 100px;}
+            80%{background-color: aqua; margin-top: 100px;margin-bottom: 0px;}
+            100%{background-color: aqua; margin-bottom: 100px;margin-top: 0px;}
+        }
+    </style>
+</head>
+<body>
+    <div class="div">
+        University
+    </div>
+</body>
+</html>

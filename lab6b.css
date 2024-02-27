@@ -1,0 +1,31 @@
+.a{
+    text-align: right;
+    
+
+}
+
+.D{
+    background-color: blue;
+   height: 30px;
+   text-align: center;
+   color: aliceblue;
+   font-size: large;
+    
+}
+.part1{
+    
+    background-color: red;
+    float: left;
+    height: 340px;
+    width: 30%;
+    
+}
+.c{
+    height: 50px;
+    text-align: center;
+    border: 1px solid rgb(14, 44, 216);
+    margin: 5px 0px;
+}
+.img1{
+    height: 340px;
+}

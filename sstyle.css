@@ -1,0 +1,54 @@
+    div {
+        background-color: aqua;
+        height: 100%;
+        width: 100%;
+        float: left;
+        padding: 10px;
+    }
+
+     #seco {
+        padding: 2px;
+        background-color: blue;
+        float: left;
+        /* width: 40%; */
+        /* float: left; */
+
+     } 
+
+    #third {
+        background-color: black;
+        color: antiquewhite;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        width: 40%;
+        
+    }
+
+    #fourt {
+        background-color: black;
+        color: antiquewhite;
+        margin-bottom: 2px;
+        width: 40%;
+        float: left;
+        align-self: left;
+     }  
+
+    #five {
+        background-color: black;
+        color: antiquewhite;
+        margin-bottom: 2px;
+    }
+    #how{
+        background-color: burlywood;
+    }
+    #maul{
+        background-color: cadetblue;
+    }
+    #con{
+        background-color:yellow;
+        float: left;
+    }
+    #too{
+        /* height: auto; */
+        /* width: auto; */
+    }
